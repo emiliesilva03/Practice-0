@@ -5,4 +5,4 @@
 
 ![Alt text](https://lrabm.wordpress.com/wp-content/uploads/2020/06/sports-image-low-res.jpg)
 
-[![Video Title](https://img.youtube.com/vi/u7AbRqauz7E/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Oklahoma City Thunder vs Indiana Pacers ](https://img.youtube.com/vi/u7AbRqauz7E/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
