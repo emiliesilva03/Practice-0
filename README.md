@@ -3,5 +3,5 @@
 ## My favorite ssport is basketball 
 "This is where sports begin!"
 
-![Alt text]([image](https://lrabm.wordpress.com/wp-content/uploads/2020/06/sports-image-low-res.jpg)
+![Alt text](https://lrabm.wordpress.com/wp-content/uploads/2020/06/sports-image-low-res.jpg)
 
